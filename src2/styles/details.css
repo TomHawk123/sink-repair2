@@ -1,0 +1,11 @@
+.field {
+    flex-direction: column
+}
+
+.serviceForm {
+    justify-content: space-evenly;
+}
+
+.label {
+    min-width: 100vw;
+}
